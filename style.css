@@ -16,7 +16,6 @@ body{
     display: grid;
     place-items: center;
     font-family: 'Roboto', sans-serif;
-    overflow-x: hidden;
     background-image: url(bg-header-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -307,7 +306,7 @@ h3{
 
     .footer{
         background-color: #f5f6f8;
-        width: 110%;
+        width: 100%;
         display: grid;
         justify-items: center;
     }
